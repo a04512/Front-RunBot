@@ -1,0 +1,18 @@
+{
+  "name": "front-run",
+  "version": "1.0.0",
+  "description": "uniswap front-run bot",
+  "main": "frontrun.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mayo",
+  "license": "ISC",
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.3.4"
+  }
+}
